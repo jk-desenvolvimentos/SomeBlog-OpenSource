@@ -1,3 +1,3 @@
 # SomeBlog-OpenSource
 
--[X] TEST OK
+- [X] ALL OK!! 7:53pm
